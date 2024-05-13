@@ -1,1 +1,4 @@
-updated 1
+class B {
+
+
+}
